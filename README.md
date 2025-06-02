@@ -43,7 +43,8 @@ Highest  rating was 6.5
 ![monthly sales trend](https://github.com/user-attachments/assets/a1e90cad-dd04-45b5-aa95-475308e40875)
 ![payment method distribution](https://github.com/user-attachments/assets/64afbbd2-0a95-43f7-9e0e-91e8f06a824f)
 ![total gross income by branch](https://github.com/user-attachments/assets/58b94bfa-4956-4fca-89fe-9c467551fb44)
-![total gross income by branch](https://github.com/user-attachments/assets/d65e54a8-f020-4397-86d0-7d187a578b71)
+![customer rating distribution](https://github.com/user-attachments/assets/c2eef920-22d8-49c3-ad75-71b417fe1435)
+
 
 ## ✅ Status
 Completed and ready to be showcased on resume & GitHub
