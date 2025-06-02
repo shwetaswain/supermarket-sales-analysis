@@ -27,5 +27,14 @@ The dataset used is a CSV file of supermarket sales, containing customer transac
 2. Open the Python file `grocery_analysis.py`
 3. Run it in VS Code / Jupyter Notebook
 
+## 📈 Results
+Highest Sales were done by Females
+Highest Sales by Productline was from bevarages
+Highest Sales was Done By City Naypyitaw
+Highest sales were observed in the month of Januaury
+Most Preferred Payment distrubution was CASH
+Highest gross income was by Branch C
+Highest  rating was 6.5
+
 ## ✅ Status
 Completed and ready to be showcased on resume & GitHub
