@@ -48,3 +48,9 @@ Highest  rating was 6.5
 
 ## ✅ Status
 Completed and ready to be showcased on resume & GitHub
+
+## Author
+SHWETA SWAIN
+🔗 Connect with Me
+https://www.linkedin.com/in/shweta-swain01/
+📧 shwetaswain01@gmail.com
