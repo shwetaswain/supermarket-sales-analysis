@@ -36,5 +36,14 @@ Most Preferred Payment distrubution was CASH
 Highest gross income was by Branch C
 Highest  rating was 6.5
 
+## Images
+![Sales by Gender](https://github.com/user-attachments/assets/1260d84a-40f5-4979-a0e3-c49b248f945e)
+![Sales by Product_line](https://github.com/user-attachments/assets/d8668af7-5aeb-41b5-a646-5d3bcfe06cde)
+![sales by city](https://github.com/user-attachments/assets/cbbe9f2e-7b65-4c6d-b922-1da724073827)
+![monthly sales trend](https://github.com/user-attachments/assets/a1e90cad-dd04-45b5-aa95-475308e40875)
+![payment method distribution](https://github.com/user-attachments/assets/64afbbd2-0a95-43f7-9e0e-91e8f06a824f)
+![total gross income by branch](https://github.com/user-attachments/assets/58b94bfa-4956-4fca-89fe-9c467551fb44)
+![total gross income by branch](https://github.com/user-attachments/assets/d65e54a8-f020-4397-86d0-7d187a578b71)
+
 ## ✅ Status
 Completed and ready to be showcased on resume & GitHub
